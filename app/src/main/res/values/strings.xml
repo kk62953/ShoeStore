@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">The Shoe Store</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--String for Login Page-->
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="register_button">Register</string>
+    <string name="login_button">Login</string>
+
+    <!--String for Welcome Page-->
+    <string name="welcome_text">Welcome!</string>
+    <string name="details_text">Hi %1$s, please click Instructions to continue.</string>
+    <string name="next_button">Next</string>
+
+    <!--String for Instructions Page-->
+    <string name="instruction_textview">Instructions</string>
+    <string name="details_instruction">Next page contains of a list of shoes. Click next to continue.</string>
+    <string name="instructions_step"> Tap the + icon to add a new shoe item to your inventory</string>
+
+    <!--String for Shoe listing and Shoe Details page-->
+    <string name="name">Name:</string>
+    <string name="company">Company:</string>
+    <string name="size">Size:</string>
+    <string name="description">Description:</string>
+    <string name="company_name">Company Name</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="name_hint">Shoe Name</string>
+    <string name="company_name_hint">Company Name</string>
+    <string name="size_hint">Shoe Size</string>
+    <string name="description_hint">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add_shoe">Add Shoes</string>
+
+    <!--String for Logout page-->
+    <string name ="menu_logout">Logout</string>
+
+
+</resources>
